@@ -216,4 +216,4 @@ async def myrm(ctx):
 async def shutdown(ctx):
     await ctx.bot.logout()
 
-bot.run('NzQ3NDg1Mjk5MDcyMDQwOTgw.X0Pj7g.IBaJ_cWP01MHxwf70LW8AqJ4WT0')
+bot.run('TOKENHERE')
