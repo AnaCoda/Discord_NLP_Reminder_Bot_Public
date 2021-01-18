@@ -1,4 +1,6 @@
 # Discord_NLP_Reminder_Bot_Public
+https://hackaday.io/project/175679-discord-reminder-bot-with-the-nvidia-jetson-nano
+
 A Discord reminder bot that parses information from a natural reminder request and sends a message to remind you.
 
 extract_reminder.py contains a function I use for the actual parsing of the input, and all the code I used to regex the templates from.
